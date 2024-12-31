@@ -1,57 +1,44 @@
-<header>
+# army2cyber
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my personal blog where I document my journey in learning cybersecurity while serving in the army. This blog serves as a consolidation of my learning experiences, course progress, and insights gained along the way. My goal is to not only track my own growth but also to inspire others who are transitioning into the field of cybersecurity.
 
-# GitHub Pages
+## Table of Contents
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- [Blog Posts](#blog-posts)
+- [Learning Resources](#learning-resources)
+- [Contact](#contact)
 
-</header>
+## Blog Posts
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+I commit to posting consistant updates on my blog, covering topics such as:
 
-## Finish
+- Cybersecurity concepts and principles
+- Course progress and certifications
+- Practical exercises and projects
+- Reflections on my learning experiences
+- Tips and resources for aspiring cybersecurity professionals
 
-_Congratulations friend, you've completed this course!_
+Feel free to explore my blog and join me on this journey!
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+## Learning Resources
 
-Your blog is now live and has been deployed!
+Here are some resources that I find helpful in my learning process:
 
-Here's a recap of all the tasks you've accomplished in your repository:
+- [Cybrary](https://www.cybrary.it/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [OWASP](https://owasp.org/)
+- [Khan Academy](https://www.khanacademy.org/)
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+## Contact
 
-### What's next?
+I welcome feedback, questions, and discussions! You can reach me at:
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Email: [onyx99924@proton.me](mailto:onyx99924@proton.me)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Thank you for visiting my blog! I hope you find it informative and inspiring.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+*Last updated: 31/12/2024*
