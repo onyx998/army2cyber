@@ -1,6 +1,6 @@
 ---
 layout: default
-title: army2cyber
+title: army2cyber - INDEX
 ---
 
 # Welcome to Army2Cyber
