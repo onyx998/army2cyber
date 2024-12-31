@@ -18,7 +18,8 @@ I commit to posting consistant updates on my blog, covering topics such as:
 - Reflections on my learning experiences
 - Tips and resources for aspiring cybersecurity professionals
 
-Feel free to explore my blog and join me on this journey!
+Feel free to explore my blog and join me on this journey! You can visit it here: [army2cyber](https://onyx998.github.io/army2cyber/)  
+
 
 ## Learning Resources
 
