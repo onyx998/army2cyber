@@ -1,7 +1,7 @@
 # Site settings
 title: Army2Cyber
 description: A blog documenting my journey from military service to a career in cybersecurity.
-url: https://onyx998.github.io/army2cyber/  # Replace with your actual URL
+url: https://username.github.io  # Replace with your actual URL
 baseurl: ""  # Leave empty if using the root domain
 
 # Author settings
@@ -18,7 +18,8 @@ permalink: pretty  # URL structure for posts
 
 # Social settings
 social:
-  email: onyx99924@proton.me # Replace with your Twitter handle
+  twitter: your_twitter_handle  # Replace with your Twitter handle
+  linkedin: your_linkedin_profile  # Replace with your LinkedIn profile
 
 # Plugins (if needed)
 plugins:
