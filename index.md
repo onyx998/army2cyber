@@ -2,9 +2,9 @@
 title: army2cyber
 ---
 
-# Welcome to Army2Cyber
+# Welcome to my personal blog
 
-Hello and welcome to my blog, **Army2Cyber**! Here, I document my journey of transitioning from military service to a career in cybersecurity. This blog serves as a personal consolidation of my learning experiences, course progress, and insights gained along the way.
+Hello and welcome to my blog, **army2cyber**! Here, I document my journey of transitioning from military service to a career in cybersecurity. This blog serves as a personal consolidation of my learning experiences, course progress, and insights gained along the way.
 
 ## My Mission
 
