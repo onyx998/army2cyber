@@ -35,7 +35,6 @@ Here are some resources that I find helpful in my learning process:
 I welcome feedback, questions, and discussions! You can reach me at:
 
 - Email: [onyx99924@proton.me](mailto:onyx99924@proton.me)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 Thank you for visiting my blog! I hope you find it informative and inspiring.
 
