@@ -1,4 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- Other head elements -->
 </head>
-
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <!-- Navigation links -->
+        </nav>
+    </header>
+    <main>
+        {{ content }} <!-- This is where your page content will be rendered -->
+    </main>
+    <footer>
+        <p>&copy; {{ site.year }} {{ site.title }}</p>
+    </footer>
+</body>
+</html>
