@@ -1,1 +1,48 @@
-theme: minima
+# _config.yml
+
+# Site settings
+title: Army2Cyber
+description: A blog documenting my journey from military service to a career in cybersecurity.
+url: https://yourusername.github.io/army2cyber # Replace with your GitHub Pages URL
+baseurl: "" # Leave empty if using the root domain
+
+# Author settings
+author:
+  name: Your Name
+  email: your.email@example.com # Replace with your email
+
+# Build settings
+markdown: kramdown
+theme: minima # You can change this to any other theme you prefer
+
+# Plugins
+plugins:
+  - jekyll-feed # For RSS feed
+  - jekyll-seo-tag # For SEO optimization
+
+# Social media links
+social:
+  twitter: your_twitter_handle # Replace with your Twitter handle
+  github: your_github_username # Replace with your GitHub username
+  linkedin: your_linkedin_profile # Replace with your LinkedIn profile
+
+# Navigation settings
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Blog
+    url: /blog
+  - title: Contact
+    url: /contact
+
+# Permalinks
+permalink: pretty
+
+# Exclude files and directories from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
