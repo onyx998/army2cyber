@@ -3,7 +3,7 @@ layout: default
 title: army2cyber - INDEX
 ---
 
-# Welcome to Army2Cyber
+# Welcome to Army2Cyber - INDEX
 
 Hello and welcome to my blog, **army2cyber**! Here, I document my journey of transitioning from military service to a career in cybersecurity. This blog serves as a personal consolidation of my learning experiences, course progress, and insights gained along the way.
 
