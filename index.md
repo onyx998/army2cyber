@@ -24,4 +24,4 @@ Thank you for joining me on this journey! Feel free to explore my posts and shar
 
 ---
 
-*Last updated: [Insert Date]*
+*Last updated: 31/12/2024*
