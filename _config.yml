@@ -1,1 +1,33 @@
+# Site settings
+title: Army2Cyber
+description: A blog documenting my journey from military service to a career in cybersecurity.
+url: https://onyx998.github.io/army2cyber/  # Replace with your actual URL
+baseurl: ""  # Leave empty if using the root domain
+
+# Author settings
+author:
+  name: Your Name
+  email: your-email@example.com  # Replace with your email
+
+# Theme settings
 theme: minima
+
+# Build settings
+markdown: kramdown  # Markdown processor
+permalink: pretty  # URL structure for posts
+
+# Social settings
+social:
+  email: onyx99924@proton.me # Replace with your Twitter handle
+
+# Plugins (if needed)
+plugins:
+  - jekyll-feed  # For RSS feed
+  - jekyll-seo-tag  # For SEO tags
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
