@@ -9,6 +9,7 @@ baseurl: "" # Leave empty if using the root domain
 # Author settings
 author:
   email: onyx99924@proton.me # Replace with your email
+  name: onyx998 # Replace with your name
 
 # Build settings
 markdown: kramdown
@@ -16,9 +17,8 @@ theme: minima # You can change this to any other theme you prefer
 
 # Social media links
 social:
-  twitter: your_twitter_handle # Replace with your Twitter handle
-  github: your_github_username # Replace with your GitHub username
-  linkedin: your_linkedin_profile # Replace with your LinkedIn profile
+  email:  onyx99924@proton.me # Replace with your Email
+  github: onyx998 # Replace with your GitHub username
 
 # Navigation settings
 navigation:
