@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: army2cyber - onyx998
 ---
 
