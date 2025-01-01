@@ -13,7 +13,7 @@ I'm starting this journey by putting the compTIA Network+ certificate as my imme
 
 ## Main Content
 
-### Why CompTIA Network+ 
+## Why CompTIA Network+ 
  
 I’ve decided to begin working towards the CompTIA Network+ certification because it offers a solid foundation for anyone looking to build a career in IT and networking. Here are a few reasons why I believe Network+ is a great choice:
 
@@ -32,7 +32,7 @@ I’ve decided to begin working towards the CompTIA Network+ certification becau
    Flexibility: With so many study resources available, including online courses, study guides, and practice exams, I can tailor my learning experience to fit my schedule and learning style.
 
 
-### Exam Preperation
+## Exam Preperation
 
 For my exam preparation for the CompTIA Network+ certification, I’ve decided to use the Udemy course titled CompTIA Network+ (N10-008).
 I chose this course because it’s affordable and offers great value for the content provided. 
@@ -44,7 +44,7 @@ This approach will help me build a strong foundation in networking and prepare m
 [CompTIA Network+ (N10-008) Course](https://www.udemy.com/course/comptia-network-009/)
 
 
-### Future Posts
+## Future Posts
 
 In the immediate future, my upcoming posts will focus on the topics and lessons I encounter while working through the CompTIA Network+ course. 
 I plan to share my understanding of key concepts, insights gained from the material, and any challenges I face along the way. By documenting my learning journey,
