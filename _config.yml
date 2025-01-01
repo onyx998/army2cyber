@@ -1,2 +1,14 @@
 theme: minima
 
+# Show blogs, limit to 5
+show_excerptpaginate: 5  
+s: true
+
+
+
+social_links:
+  - title: GitHub
+    url: https://github.com/onyx998
+
+
+
