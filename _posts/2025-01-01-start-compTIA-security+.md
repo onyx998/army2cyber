@@ -3,7 +3,7 @@ layout: post
 title: "start-compTIA-network+"
 date: 2025-01-01
 author: "onyx998"
-excerpt: "Deciding to beign study for compTIA Network+ certificate"
+excerpt: "Deciding to begin study for compTIA Network+ certificate"
 ---
 
 
