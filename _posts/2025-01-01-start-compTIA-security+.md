@@ -17,17 +17,19 @@ I'm starting this journey by putting the compTIA Network+ certificate as my imme
  
 I’ve decided to begin working towards the CompTIA Network+ certification because it offers a solid foundation for anyone looking to build a career in IT and networking. Here are a few reasons why I believe Network+ is a great choice:
 
-    -Industry Recognition: Network+ is widely recognized by employers as a standard certification for networking professionals, which can really boost my credibility in the job market.
+   Industry Recognition: Network+ is widely recognized by employers as a standard certification for networking professionals, which can really boost my credibility in the job market.
     
-    -Comprehensive Coverage: The certification covers a broad range of networking topics, including network architecture, operations, security, and troubleshooting, giving me a well-rounded understanding of essential concepts.
+   Comprehensive Coverage: The certification covers a broad range of networking topics, including network architecture, operations, security, and troubleshooting, giving me a well-rounded understanding of       
+   essential concepts.
     
-    -Career Advancement: Earning Network+ can open doors to various entry-level positions in IT, such as network technician, systems administrator, and help desk support, helping me pave the way for future career growth.
+   Career Advancement: Earning Network+ can open doors to various entry-level positions in IT, such as network technician, systems administrator, and help desk support, helping me pave the way for future career 
+   growth.
     
-    -Foundational Knowledge: It serves as a solid stepping stone for more advanced certifications, like CompTIA Security+ and Cisco CCNA, which I plan to pursue later on.
+   Foundational Knowledge: It serves as a solid stepping stone for more advanced certifications, like CompTIA Security+ and Cisco CCNA, which I plan to pursue later on.
     
-    -Hands-On Skills: The emphasis on practical skills means I’ll be able to apply what I learn in real-world scenarios, which is crucial for success in IT roles.
+   Hands-On Skills: The emphasis on practical skills means I’ll be able to apply what I learn in real-world scenarios, which is crucial for success in IT roles.
     
-    -Flexibility: With so many study resources available, including online courses, study guides, and practice exams, I can tailor my learning experience to fit my schedule and learning style.
+   Flexibility: With so many study resources available, including online courses, study guides, and practice exams, I can tailor my learning experience to fit my schedule and learning style.
 
 
 ### Exam Preperation
@@ -39,7 +41,8 @@ I plan to follow the course structure closely, taking detailed notes and engagin
 Additionally, I’ll set aside dedicated study time each week to ensure I stay on track and fully grasp the concepts before the exam. 
 This approach will help me build a strong foundation in networking and prepare me effectively for the certification test.
 
-Link to course: https://www.udemy.com/course/comptia-network-009/
+[CompTIA Network+ (N10-008) Course](https://www.udemy.com/course/comptia-network-009/)
+
 
 ### Future Posts
 
