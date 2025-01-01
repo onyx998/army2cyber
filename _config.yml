@@ -2,7 +2,7 @@ theme: minima
 
 # Show blogs, limit to 5
 show_excerptpaginate: 5  
-s: true
+show_excerpts: true
 
 
 
