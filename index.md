@@ -1,9 +1,9 @@
 ---
 layout: home
-title: onyx998
+title: home-page
 ---
 
-# Welcome to Army2Cyber - INDEX
+# Welcome to army2cyber
 
 Hello and welcome to my blog, **army2cyber**! Here, I document my journey of transitioning from military service to a career in cybersecurity. This blog serves as a personal consolidation of my learning experiences, course progress, and insights gained along the way.
 
