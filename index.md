@@ -1,6 +1,6 @@
 ---
 layout: home
-title: army2cyber - onyx998
+title: onyx998
 ---
 
 # Welcome to Army2Cyber - INDEX
