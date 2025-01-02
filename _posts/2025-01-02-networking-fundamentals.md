@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Network Fundamentals"
+title: "network fundamentals"
 date: 2025-01-02
 author: "onyx998"
 excerpt: "Learning networking fundamental knowledge covered in Udemy Network+ Course, Chapter Network Fundamentals"
