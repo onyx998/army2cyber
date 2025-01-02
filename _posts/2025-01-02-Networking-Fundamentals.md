@@ -94,13 +94,28 @@ Wireless network topology refers to the arrangement of devices in a wireless net
 
 - **Wireless Mesh Topology**: In this topology, multiple access points communicate with each other to extend coverage. This is often used in large areas where a single access point cannot provide sufficient coverage.
 
+
 ## Data Center Topology
 
 Data centers utilize specific topologies to manage large amounts of data and resources efficiently. Common topologies include:
 
 - **Three-Tier Hierarchy**: This architecture consists of three layers:
   - **Core Layer**: The backbone of the network, providing high-speed connectivity between different parts of the data center.
-  - **Distribution/Aggregation Layer**: This layer connects
+  - **Distribution/Aggregation Layer**: This layer connects the core layer to the access layer, managing traffic and policy enforcement.
+  - **Access/Edge Layer**: The layer where end devices connect, providing access to the network resources.
+
+- **Collapsed Core**: In this topology, the core and distribution layers are combined into a single layer, simplifying the architecture and reducing costs. This is often used in smaller data centers where high availability is still required.
+
+- **Spine and Leaf Architecture**: This design consists of two layers: the spine layer, which connects all leaf switches, and the leaf layer, which connects to servers and storage. This architecture allows for high bandwidth and low latency, making it suitable for modern data centers.
+
+Traffic flows in data centers are generally regarded as **North-South** and **East-West**:
+
+- **North-South Traffic**: Refers to data flowing between the data center and external networks (e.g., users accessing applications hosted in the data center). This traffic typically involves higher latency and is subject to more security checks.
+
+- **East-West Traffic**: Refers to data flowing between devices within the data center (e.g., communication between servers). This traffic is usually more frequent and requires high bandwidth, as it supports the internal operations of applications and services.
+
+Understanding these topologies and traffic flows is essential for designing efficient and scalable data center networks.
+
 
   
 ## Upcoming
