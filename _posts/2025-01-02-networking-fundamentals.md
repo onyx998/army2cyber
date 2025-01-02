@@ -3,7 +3,7 @@ layout: post
 title: "Network Fundamentals"
 date: 2025-01-02
 author: "onyx998"
-excerpt: "Exploring the essential components and concepts of network fundamentals."
+excerpt: "Learning networking fundamental knowledge covered in [CompTIA Network+ (N10-008) Course](https://www.udemy.com/course/comptia-network-009/)"
 ---
 
 ## Introduction
