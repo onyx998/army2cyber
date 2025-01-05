@@ -6,7 +6,7 @@ author: "onyx998"
 excerpt: "This chapter covered ports and protocols"
 ---
 
-# Always Name this Introduction
+# Introduction
 In this section of the course, we covered the essential concepts of Ports and Protocols, which are fundamental to understanding network communication.
 
 ## CompTIA Network+ (N10-008) Course: Ports and Protocols
