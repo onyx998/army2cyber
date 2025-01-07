@@ -9,8 +9,7 @@ excerpt: "This chapter covered ports and protocols"
 # Introduction
 In this section of the course, we covered the essential concepts of Ports and Protocols, which are fundamental to understanding network communication.
 
-## CompTIA Network+ (N10-008) Course: Ports and Protocols
-The chapter covered in the course was Ports and Protocols.
+[CompTIA Network+ (N10-008) Course - Ports and Protocols](https://www.comptia.org/certifications/network) 
 
 ## Ports and Protocols
 Ports and protocols are crucial for network communication. Different ports are assigned for various services, allowing multiple applications to run simultaneously on a single device. While ports are endpoints for communication, protocols define the rules and conventions for data exchange.
