@@ -13,8 +13,7 @@ as high availability and uptime are essential for any network's success. The "fi
 highlights the importance of reliability in network design and operation. Achieving this level of availability ensures that services remain accessible and functional, 
 minimizing downtime and enhancing user experience.
 
-[CompTIA Network+ (N10-008) Course](https://www.udemy.com/course/comptia-network-009/)
-Networking Fundamentals Chapter
+[CompTIA Network+ (N10-009) Full Course & Practice Exam - Network Fundamentals](https://www.udemy.com/course/comptia-network-009) 
 
 ## Network Components
 
