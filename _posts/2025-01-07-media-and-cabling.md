@@ -10,7 +10,7 @@ excerpt: "Learning about media, cabling, and different connectors"
 # Introduction
 In this part of the course, we covered the fundamentals of media and cabling, focusing on the various types of copper and fiber optic cables used in networking. Understanding these components is essential for building and maintaining efficient network infrastructures.
 
-[CompTIA Network+ (N10-008) Course - Media and Cabling](https://www.comptia.org/certifications/network) 
+[CompTIA Network+ (N10-009) Full Course & Practice Exam - Media and Cabling](https://www.udemy.com/course/comptia-network-009) 
 
 ## Copper Media
 Copper cabling is the most common type of cabling used in networking today. The types of copper cables that will be mentioned include twisted pair, coaxial, and twinaxial.
