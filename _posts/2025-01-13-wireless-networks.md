@@ -1,4 +1,4 @@
----
+--_
 layout: post
 title: "wireless networks"
 date: 2025-01-013
@@ -77,7 +77,7 @@ Wireless security primarily relies on two main authentication methods: Pre-Share
   
 - **Enterprise Authentication**: This method employs a more robust security framework, often using protocols like 802.1X. It requires users to authenticate individually, typically through a username and password, making it suitable for larger organizations with more stringent security needs.
 
-# Next subject
+# Up Next
 In the next chapter of the course, we will delve into Ethernet Switching. This topic will cover the fundamentals of how data is transmitted over wired networks, including the role of switches and the importance of network segmentation. Stay tuned for the next post, where we will explore this critical aspect of networking!
 
 
