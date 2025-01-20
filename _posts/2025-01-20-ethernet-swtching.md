@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wireless networks"
+title: "ethernet switching"
 date: 2025-01-20
 author: "onyx998"
 excerpt: "Diving into concetps surrounding Ethernet Switching"
