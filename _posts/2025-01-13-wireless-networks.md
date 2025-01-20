@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "wireless networks"
-date: 2025-01-013
+date: 2025-01-13
 author: "onyx998"
 excerpt: "Covering the basics to wireless networks"
 ---
